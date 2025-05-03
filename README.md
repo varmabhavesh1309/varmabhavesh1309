@@ -9,7 +9,7 @@
 <h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/varma-bhavesh-652012314/?originalSubdomain=in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bh.avesh9759" target="_blank">
