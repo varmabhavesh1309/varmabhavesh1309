@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Varma Bhavesh</h1><div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Animated GIF" />
 </p>
@@ -22,7 +23,6 @@
 </p>
 
   <div id="badges">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
 <p text-align: justify; text-justify: inter-word;>
