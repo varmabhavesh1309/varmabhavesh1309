@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/569c9089-8dae-4276-8865-983ebaaae767"
- width="200"/>
+  <img src="https://github.com/user-attachments/assets/c9526883-8d3c-4cde-9a31-5e6b8d8c7255"
+ width="300"/>
   <div id="badges">
 
 <h1 align="center">Hi 👋, I'm Varma Bhavesh</h1>
