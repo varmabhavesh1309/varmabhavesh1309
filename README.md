@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
   <div id="badges">
 
-<h1 align="center">Hi 👋, I'm varms bhavwsh</h1>
+<h1 align="center">Hi 👋, I'm varma bhavesh</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
