@@ -29,6 +29,17 @@
 <p text-align: justify; text-justify: inter-word;>
   I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.Over the years, I’ve consistently demonstrated my ability to deliver high-quality software products. I’m proficient in various programming languages including Python, Java, and C++, and possess extensive knowledge of software development methodologies and best practices. 
 </p>
+  <h4>👩‍💻 CODING SKILLS:</h4>
+</div>
+
+![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)<br/>
+
+<div>
+  <h4>🎨 CREATIVE SKILLS:</h4>
+</div>
+
+![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 ## 🐍 Snake-Eating My Contribution
 <br clear="both">
 
