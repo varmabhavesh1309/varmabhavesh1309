@@ -21,14 +21,12 @@
   <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" alt="HackerRank" />
   </a>
-  <a href="https://www.namanbagdiya.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f3c4c?style=for-the-badge&logo=authy&logoColor=white" height="30" alt="Portfolio" />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f3c4c?style=for-the-badge&logo=authy&logoColor=white" height="30" alt="TO DO LIST" />
   </a>
 </p>
 
   <div id="badges">
-
-<h1 align="center">Hi 👋, I'm Varma Bhavesh</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
