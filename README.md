@@ -1,6 +1,30 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966"
- width="300"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Animated GIF" />
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namanbagdiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/namaan_b" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/932995196101201951" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
+  </a>
+  <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" alt="HackerRank" />
+  </a>
+  <a href="https://www.namanbagdiya.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f3c4c?style=for-the-badge&logo=authy&logoColor=white" height="30" alt="Portfolio" />
+  </a>
+</p>
+
   <div id="badges">
 
 <h1 align="center">Hi 👋, I'm Varma Bhavesh</h1>
