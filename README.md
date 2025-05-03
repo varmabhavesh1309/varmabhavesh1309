@@ -15,12 +15,7 @@
   <a href="https://www.instagram.com/bh.avesh9759" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/932995196101201951" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
-  </a>
-  <a href="https://www.hackerrank.com/namanbagdiya" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30" alt="HackerRank" />
-  </a>
+
   <a href="https://splendorous-gaufre-de021b.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/TODO LIST-0f3c4c?style=for-the-badge&logo=authy&logoColor=white" height="30" alt="TO DO LIST" />
   </a>
